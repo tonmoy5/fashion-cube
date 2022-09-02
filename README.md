@@ -5,7 +5,6 @@
 front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 
 
-
 ## This project is created using:
 
 - [x] Monorepo
